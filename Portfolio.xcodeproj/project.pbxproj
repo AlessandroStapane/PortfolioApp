@@ -8,12 +8,27 @@
 
 /* Begin PBXBuildFile section */
 		D2B224692B9E26C00050FDA2 /* PortfolioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224682B9E26C00050FDA2 /* PortfolioApp.swift */; };
-		D2B2246B2B9E26C00050FDA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2246A2B9E26C00050FDA2 /* ContentView.swift */; };
 		D2B2246D2B9E26C30050FDA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2B2246C2B9E26C30050FDA2 /* Assets.xcassets */; };
 		D2B224702B9E26C30050FDA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2B2246F2B9E26C30050FDA2 /* Preview Assets.xcassets */; };
 		D2B2247A2B9E26C30050FDA2 /* PortfolioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224792B9E26C30050FDA2 /* PortfolioTests.swift */; };
 		D2B224842B9E26C40050FDA2 /* PortfolioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224832B9E26C40050FDA2 /* PortfolioUITests.swift */; };
 		D2B224862B9E26C40050FDA2 /* PortfolioUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224852B9E26C40050FDA2 /* PortfolioUITestsLaunchTests.swift */; };
+		D2B224972B9E27370050FDA2 /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = D2B224942B9E27370050FDA2 /* Untitled.png */; };
+		D2B224982B9E27370050FDA2 /* Proggetti.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224952B9E27370050FDA2 /* Proggetti.swift */; };
+		D2B224992B9E27370050FDA2 /* Skill.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224962B9E27370050FDA2 /* Skill.swift */; };
+		D2B224A72B9E274D0050FDA2 /* NetworkAdm.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2249A2B9E274D0050FDA2 /* NetworkAdm.swift */; };
+		D2B224A82B9E274D0050FDA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2249B2B9E274D0050FDA2 /* ContentView.swift */; };
+		D2B224A92B9E274D0050FDA2 /* b88642f4_1.png in Resources */ = {isa = PBXBuildFile; fileRef = D2B2249C2B9E274D0050FDA2 /* b88642f4_1.png */; };
+		D2B224AA2B9E274D0050FDA2 /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2249D2B9E274D0050FDA2 /* Chat.swift */; };
+		D2B224AB2B9E274D0050FDA2 /* Download PDF.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2249E2B9E274D0050FDA2 /* Download PDF.swift */; };
+		D2B224AC2B9E274D0050FDA2 /* BuyMeAcoffe.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B2249F2B9E274D0050FDA2 /* BuyMeAcoffe.swift */; };
+		D2B224AD2B9E274D0050FDA2 /* Notifiche.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224A02B9E274D0050FDA2 /* Notifiche.swift */; };
+		D2B224AE2B9E274D0050FDA2 /* Esperienza.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224A12B9E274D0050FDA2 /* Esperienza.swift */; };
+		D2B224AF2B9E274D0050FDA2 /* bmc-logo-no-background.png in Resources */ = {isa = PBXBuildFile; fileRef = D2B224A22B9E274D0050FDA2 /* bmc-logo-no-background.png */; };
+		D2B224B02B9E274D0050FDA2 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = D2B224A32B9E274D0050FDA2 /* logo.png */; };
+		D2B224B12B9E274D0050FDA2 /* Bymeacoffe.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224A42B9E274D0050FDA2 /* Bymeacoffe.swift */; };
+		D2B224B22B9E274D0050FDA2 /* NetAdm.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224A52B9E274D0050FDA2 /* NetAdm.swift */; };
+		D2B224B32B9E274D0050FDA2 /* Contatti.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B224A62B9E274D0050FDA2 /* Contatti.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +51,6 @@
 /* Begin PBXFileReference section */
 		D2B224652B9E26C00050FDA2 /* Portfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2B224682B9E26C00050FDA2 /* PortfolioApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioApp.swift; sourceTree = "<group>"; };
-		D2B2246A2B9E26C00050FDA2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D2B2246C2B9E26C30050FDA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2B2246F2B9E26C30050FDA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D2B224752B9E26C30050FDA2 /* PortfolioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +58,22 @@
 		D2B2247F2B9E26C30050FDA2 /* PortfolioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2B224832B9E26C40050FDA2 /* PortfolioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioUITests.swift; sourceTree = "<group>"; };
 		D2B224852B9E26C40050FDA2 /* PortfolioUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D2B224942B9E27370050FDA2 /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Untitled.png; path = ../../PortFolioIosApp/PortFolioIosApp/Untitled.png; sourceTree = "<group>"; };
+		D2B224952B9E27370050FDA2 /* Proggetti.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Proggetti.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Proggetti.swift; sourceTree = "<group>"; };
+		D2B224962B9E27370050FDA2 /* Skill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Skill.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Skill.swift; sourceTree = "<group>"; };
+		D2B2249A2B9E274D0050FDA2 /* NetworkAdm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetworkAdm.swift; path = ../../PortFolioIosApp/PortFolioIosApp/NetworkAdm.swift; sourceTree = "<group>"; };
+		D2B2249B2B9E274D0050FDA2 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../PortFolioIosApp/PortFolioIosApp/ContentView.swift; sourceTree = "<group>"; };
+		D2B2249C2B9E274D0050FDA2 /* b88642f4_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = b88642f4_1.png; path = ../../PortFolioIosApp/PortFolioIosApp/b88642f4_1.png; sourceTree = "<group>"; };
+		D2B2249D2B9E274D0050FDA2 /* Chat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chat.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Chat.swift; sourceTree = "<group>"; };
+		D2B2249E2B9E274D0050FDA2 /* Download PDF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Download PDF.swift"; path = "../../PortFolioIosApp/PortFolioIosApp/Download PDF.swift"; sourceTree = "<group>"; };
+		D2B2249F2B9E274D0050FDA2 /* BuyMeAcoffe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BuyMeAcoffe.swift; path = ../../PortFolioIosApp/PortFolioIosApp/BuyMeAcoffe.swift; sourceTree = "<group>"; };
+		D2B224A02B9E274D0050FDA2 /* Notifiche.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Notifiche.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Notifiche.swift; sourceTree = "<group>"; };
+		D2B224A12B9E274D0050FDA2 /* Esperienza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Esperienza.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Esperienza.swift; sourceTree = "<group>"; };
+		D2B224A22B9E274D0050FDA2 /* bmc-logo-no-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bmc-logo-no-background.png"; path = "../../PortFolioIosApp/PortFolioIosApp/bmc-logo-no-background.png"; sourceTree = "<group>"; };
+		D2B224A32B9E274D0050FDA2 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../PortFolioIosApp/PortFolioIosApp/logo.png; sourceTree = "<group>"; };
+		D2B224A42B9E274D0050FDA2 /* Bymeacoffe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Bymeacoffe.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Bymeacoffe.swift; sourceTree = "<group>"; };
+		D2B224A52B9E274D0050FDA2 /* NetAdm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetAdm.swift; path = ../../PortFolioIosApp/PortFolioIosApp/NetAdm.swift; sourceTree = "<group>"; };
+		D2B224A62B9E274D0050FDA2 /* Contatti.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Contatti.swift; path = ../../PortFolioIosApp/PortFolioIosApp/Contatti.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +125,22 @@
 			isa = PBXGroup;
 			children = (
 				D2B224682B9E26C00050FDA2 /* PortfolioApp.swift */,
-				D2B2246A2B9E26C00050FDA2 /* ContentView.swift */,
+				D2B224952B9E27370050FDA2 /* Proggetti.swift */,
+				D2B224962B9E27370050FDA2 /* Skill.swift */,
+				D2B2249C2B9E274D0050FDA2 /* b88642f4_1.png */,
+				D2B224A22B9E274D0050FDA2 /* bmc-logo-no-background.png */,
+				D2B2249F2B9E274D0050FDA2 /* BuyMeAcoffe.swift */,
+				D2B224A42B9E274D0050FDA2 /* Bymeacoffe.swift */,
+				D2B2249D2B9E274D0050FDA2 /* Chat.swift */,
+				D2B224A62B9E274D0050FDA2 /* Contatti.swift */,
+				D2B2249B2B9E274D0050FDA2 /* ContentView.swift */,
+				D2B2249E2B9E274D0050FDA2 /* Download PDF.swift */,
+				D2B224A12B9E274D0050FDA2 /* Esperienza.swift */,
+				D2B224A32B9E274D0050FDA2 /* logo.png */,
+				D2B224A52B9E274D0050FDA2 /* NetAdm.swift */,
+				D2B2249A2B9E274D0050FDA2 /* NetworkAdm.swift */,
+				D2B224A02B9E274D0050FDA2 /* Notifiche.swift */,
+				D2B224942B9E27370050FDA2 /* Untitled.png */,
 				D2B2246C2B9E26C30050FDA2 /* Assets.xcassets */,
 				D2B2246E2B9E26C30050FDA2 /* Preview Content */,
 			);
@@ -232,7 +277,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2B224702B9E26C30050FDA2 /* Preview Assets.xcassets in Resources */,
+				D2B224AF2B9E274D0050FDA2 /* bmc-logo-no-background.png in Resources */,
+				D2B224B02B9E274D0050FDA2 /* logo.png in Resources */,
+				D2B224A92B9E274D0050FDA2 /* b88642f4_1.png in Resources */,
 				D2B2246D2B9E26C30050FDA2 /* Assets.xcassets in Resources */,
+				D2B224972B9E27370050FDA2 /* Untitled.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +306,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2B2246B2B9E26C00050FDA2 /* ContentView.swift in Sources */,
+				D2B224992B9E27370050FDA2 /* Skill.swift in Sources */,
+				D2B224AA2B9E274D0050FDA2 /* Chat.swift in Sources */,
+				D2B224AC2B9E274D0050FDA2 /* BuyMeAcoffe.swift in Sources */,
+				D2B224AB2B9E274D0050FDA2 /* Download PDF.swift in Sources */,
+				D2B224B22B9E274D0050FDA2 /* NetAdm.swift in Sources */,
+				D2B224B32B9E274D0050FDA2 /* Contatti.swift in Sources */,
+				D2B224A82B9E274D0050FDA2 /* ContentView.swift in Sources */,
 				D2B224692B9E26C00050FDA2 /* PortfolioApp.swift in Sources */,
+				D2B224AD2B9E274D0050FDA2 /* Notifiche.swift in Sources */,
+				D2B224982B9E27370050FDA2 /* Proggetti.swift in Sources */,
+				D2B224A72B9E274D0050FDA2 /* NetworkAdm.swift in Sources */,
+				D2B224AE2B9E274D0050FDA2 /* Esperienza.swift in Sources */,
+				D2B224B12B9E274D0050FDA2 /* Bymeacoffe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,11 +485,13 @@
 				DEVELOPMENT_TEAM = 84PD472QGB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -454,11 +516,13 @@
 				DEVELOPMENT_TEAM = 84PD472QGB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
